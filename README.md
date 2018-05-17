@@ -1,3 +1,3 @@
-# React NewsAPI Example
+# React NewsAPI Exempel
 
 Svenska och norska nyheter
